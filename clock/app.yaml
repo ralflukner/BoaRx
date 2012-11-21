@@ -1,3 +1,7 @@
+# Ralf Lukner
+# 11/21/2012
+# Rev A
+
 application: clock
 version: 1
 runtime: python27
