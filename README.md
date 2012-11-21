@@ -1,3 +1,3 @@
 # Ralf Lukner
 # Google Apps tests
-# Refs:  Severance Google App Engine
+# Refs:  Severance (2009) Using Google App Engine
